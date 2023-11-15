@@ -7,7 +7,7 @@ Welcome to the React Tic-Tac-Toe Game! This is a simple implementation of the cl
 ### Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/react-tic-tac-toe.git](https://github.com/anshuman-com/tic-tac-toe.git)
+git clone https://github.com/anshuman-com/tic-tac-toe.git
 ```
 
 ### Navigate to the Project
